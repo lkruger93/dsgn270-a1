@@ -36,5 +36,5 @@
 <h2>Accessibility</h2>
 <p>The website overall is simple and open enough that it should be accessible for most people.  The clear text is easy for most people and text readers to read and when zoomed it doesn't lose quality.  Overall most people could likely use this website with few problems.</p>
 <h3>Conclusion</h3>
-<p>overall Jameson's website can be seen as a success.  It ticks all boxes and is overall pleasant to experience.  The average user would likely consider this website to be successful in granting them what they are looking to find and likely contributes to the restaurant's success.</p>
+<p>Overall Jameson's website can be seen as a success.  It ticks all boxes and is overall pleasant to experience.  The average user would likely consider this website to be successful in granting them what they are looking to find and likely contributes to the restaurant's success.</p>
 The Jameson's website: http://www.brentwood.jamesonspubs.com/
