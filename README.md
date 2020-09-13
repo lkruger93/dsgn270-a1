@@ -32,7 +32,7 @@
   <li>Drink menu</li>
   <li>Take-out menu</li>
  </ol>
- <p>The online menu is responsive and shows different items based on what is tapped, but there is no QR code for it to be bookmarked later for.  Luckily, it makes up for that in a downloadable menu that can be opened in a separate browser.</p>
+ <p>The online menu is responsive and shows different items based on what is tapped, but there is no QR code for it to be bookmarked later.  Luckily, it makes up for that in a downloadable menu that can be opened in a separate browser.</p>
 <h2>Accessibility</h2>
 <p>The website overall is simple and open enough that it should be accessible for most people.  The clear text is easy for most people and text readers to read and when zoomed it doesn't lose quality.  Overall most people could likely use this website with few problems.</p>
 <h3>Conclusion</h3>
