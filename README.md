@@ -22,6 +22,8 @@ Conveniently, each caption has a short description underneath that gives a brief
   The website definitely makes effective use of visual hierarchy as it immediately draws the users' eyes to their food and drinks, which are the main service of the restaurant, before giving more information in the form of text and menus.
  ## Mental Models and Usability
 The conventions of design of the website seem to be followed with no violations.  The content, while scannable, *lacks much drastic font size differences*, and it's not always clear what the most important part of the website excluding the images are.  To know much about any one thing a user would likely have to read **most of the information underneath** to find out if one was only searching for one detail.
+
+Another issue is that when navigating past the first page **it is unclear what page is on the screen until it is scrolled down**, as a slideshow of images takes up the whole screen initially.  I would likely change that by putting the title of the page at the top above the image, or make the image smaller so it can be seen immediately.
 >Home of quality comfort food
 
 Overall, the body text is quite readable, with all the content in the main body of each page on a white background with dark text so the contrast is quite clear. Towards the bottom on the main page, the restaurant's hours on each day of the week are displayed with white text on a picture background, but the background is dark enough that it too is easy to see. 
@@ -34,7 +36,7 @@ The website overall is quite responsive on all platforms, but very good on mobil
   1. Drink menu
   1. Take-out menu
  
- The online menu is responsive and shows different items based on what is tapped, but there is **no QR code for it to be bookmarked later**.  However, it does feature a downloadable menu that can be opened in a separate browser.
+ The online menu is responsive and shows different items based on what is tapped, but there is **no QR code for it to be bookmarked later**.  However, it does feature a *downloadable menu* that can be opened in a separate browser.
 ## Accessibility
 The website overall is simple and open enough that it should be accessible for most people.  The clear text is easy for most people and text readers to read and when zoomed it doesn't lose quality.  Overall most people could likely use this website with few problems.
 ### Conclusion
