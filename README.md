@@ -12,7 +12,7 @@ Of course, it is immediately obvious to note the Z-pattern, where users will qui
   
   >We strive to provide you with delicious quality comfort food that goes far beyond basic pub fare and boasts a variety of modern delights and traditional Irish food, which is made from scratch and local suppliers are used wherever possible.
   
-Conveniently, each caption has a short description underneath that gives a brief overview of what the caption mentions.  The overall goal of the website, which is to educate viewers on what food they have and the benefits of going there, is easily realized as the icons are all clickable and send the users to pages that each caption mentions, namely:
+Conveniently, each caption has a short description underneath that gives a brief overview of what the caption mentions.  The overall goal of the website is to educate viewers on what food they have and the benefits of going there.  This is easily realized as the icons are all clickable and send the users to pages that each caption mentions, namely:
  
   + Their main menu for "hungry?"
   + Their drink menu for "thirsty?"
