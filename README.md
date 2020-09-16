@@ -3,7 +3,7 @@
 
 Jameson's site visuals are quite straightforward and simple but creates a welcoming and open design.  Through use of concepts such as *negative space* in all places where content is not necessary it makes it feel simple but effective.  The use of colours such as blue with a white background make any icons stand out much more.
 
-Of course, it is immediately obvious to note the Z-pattern, where users will quickly see the top bar with the logo on the left and a drop down list on the right followed very soon by a slideshow of images directly underneath.  Directly beneath the slideshow, there are 4 icons with captions directly underneath:
+Of course, it is immediately obvious to note the *Z-pattern*, where users will quickly see the top bar with the logo on the left and a drop down list on the right followed very soon by a slideshow of images directly underneath.  Directly beneath the slideshow, there are 4 icons with captions directly underneath:
 
   1. Hungry?
   1. Thirsty?
